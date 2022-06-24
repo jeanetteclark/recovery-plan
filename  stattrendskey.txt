@@ -1,0 +1,13 @@
+Key to data codes in stattrends.csv
+
+Data taken from the USFWS Report to Congress on the Recovery Program for Threatened and Endangered Species, 1996.
+
+
+PopStat96Ordinal
+
+	-2	missing
+	-1	extinct
+	0	unknown
+	1	decreasing
+	2	stable
+	3	increasing

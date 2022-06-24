@@ -1,0 +1,193 @@
+<html>
+<head>
+<title>SCB Recovery Plan review project - DATA</title>
+</head>
+<BODY background="_themes/safari/saftextr.jpg" bgcolor="#000000" text="#CCCCCC" link="#CC9933" vlink="#999966" alink="#FFCC33">
+<FONT face="trebuchet ms, arial, helvetica">
+<CENTER>
+<FONT color="#FF0000">
+<H2>RECOVERY PLAN DATA </H2>
+</FONT>
+</CENTER>
+<p align="center"><img src="_themes/safari/safsepa.gif" width="300" height="10"></p>
+<BlockQuote>
+<FONT COLOR="#CC9933">
+<p>This page is the gateway to the data collected during the SCB Recovery Plan review
+project.</p>
+</FONT>
+<H4>  <FONT color="#FF0000">
+IMPORTANT </FONT>There are two (2) versions of the recovery plan database available:</p>
+</H4>
+<table border="0" cellpadding="0" cellspacing="0" width="80%">
+<tr><td valign="top" width="42"><img src="_themes/safari/safbul1a.gif" width="20" height="20" hspace="11"></td>
+<td>The <A HREF="data.html#primarydata">primary database</a> contains data for each of the 181 recovery plans reviewed
+during the SCB project.  These data were collected from the most recently approved
+version of each plan (i.e., the latest revision if a plan had been revised, and the
+original plan if unrevised).  This is the appropriate data to use for most analyses
+because plan revisions supercede earlier versions.</p></td></tr>
+<tr><td valign="top" width="42"><img src="_themes/safari/safbul1a.gif" width="20" height="20" hspace="11"></td>
+<td>The second version of the database contains data for the original
+version of revised recovery plans, in addition to the data contained in the primary
+database.  Among the plans reviewed during the SCB study, 61 had been revised
+at least once.  Thus, this dataset contains records for 242 recovery plans (181 + 61).
+These data should only be used if analyses require paired comparisons between original and
+revised versions of recovery plans.  <a href="../ORdata/ordata.html">Click here to view
+original + revised data.</a></p>
+</font>
+</table>
+<p align="center"><img src="_themes/safari/safsepa.gif" width="300" height="10"></p>
+<a name="primarydata"><h4>DATA FILES:</h4>
+<P>
+<FONT COLOR="#CC9933">
+<p>Due to the very large size of the database, the data have been split into small
+files that are faster to download and easier to import into spreadsheets.  To preserve
+the data structure established by the data-collection Instrument, data were
+subdivided by form (Forms 1 through 13); data from larger forms were further subdivided
+by column (identified by letter).  All files are comma-delimited text (.CSV format).</p>
+<p>Within the data files, each row contains data from one of the reviewed recovery plans
+that is identified by code names for the species and its recovery plan.  Columns
+contain data from specific cells in the data-collection Instrument that are
+identified by alphanumeric codes for the row and column from the Instrument.
+The <a href="../RPQFinal.pdf">data-collection Instrument</a> and the
+<A Href="../Keyfinal.pdf">Key to the data-collection Instrument</a>
+should be used to identify subject matter addressed in each data file, and to
+cross-reference the meaning of data response codes.  The <a href="../Species_codes.csv">
+Species Codes</a> file should be used to cross-reference species codes with
+full scientific and common names.</p>
+</font>
+</BLOCKQUOTE>
+<p align="center"><img src="_themes/safari/safsepa.gif" width="300" height="10"></p>
+<BLOCKQUOTE>
+<DL>
+<DT><B><A HREF="form01.csv">Form 1</A></B>
+<P>
+<DT><B><A HREF="form02.csv">Form 2</A></B>
+<DD> <a href="stattrends.csv">Species status trend data</a> (replaces Q82 on Form 2)
+<DD> <a href="stattrendskey.txt">Key to species status trends</a> (replaces codes for Q82 in Key to the Instrument)
+<P>
+<DT><B>Form 3</B>
+<DD>Column:&nbsp;
+<A HREF="A.csv">A</A> &nbsp;&nbsp;
+<A HREF="B.csv">B</A> &nbsp;&nbsp;
+<A HREF="C.csv">C</A> &nbsp;&nbsp;
+<A HREF="D.csv">D</A> &nbsp;&nbsp;
+<A HREF="E.csv">E</A> &nbsp;&nbsp;
+<A HREF="F.csv">F</A>
+<P>
+<DT><B>Form 4</B>
+<DD>Column:&nbsp;
+<A HREF="G.csv">G</A> &nbsp;&nbsp;
+<A HREF="H.csv">H</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">I</A> &nbsp;&nbsp;
+<A HREF="J.csv">J</A> &nbsp;&nbsp;
+<A HREF="K.csv">K</A>
+<DD><A HREF="168-169.csv">Questions 168 and 169</A>
+<P>
+<DT><B>Form 5</B>
+<DD>Column:&nbsp;
+<A HREF="L.csv">L</A> &nbsp;&nbsp;
+<A HREF="M.csv">M</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">N</A> &nbsp;&nbsp;
+<A HREF="O.csv">O</A> &nbsp;&nbsp;
+<A HREF="P.csv">P</A> &nbsp;&nbsp;
+<A HREF="Q.csv">Q</A> &nbsp;&nbsp;
+<A HREF="R.csv">R</A> &nbsp;&nbsp;
+<A HREF="S.csv">S</A> &nbsp;&nbsp;
+<A HREF="T.csv">T</A> &nbsp;&nbsp;
+<A HREF="U.csv">U</A> &nbsp;&nbsp;
+<A HREF="V.csv">V</A> &nbsp;&nbsp;
+<A HREF="W.csv">W</A>
+<P>
+<DT><B>Form 6</B>
+<DD>Column:&nbsp;
+<A HREF="X.csv">X</A> &nbsp;&nbsp;
+<A HREF="Y.csv">Y</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">Z</A> &nbsp;&nbsp;
+<A HREF="AA.csv">AA</A> &nbsp;&nbsp;
+<A HREF="BB.csv">BB</A> &nbsp;&nbsp;
+<A HREF="CC.csv">CC</A> &nbsp;&nbsp;
+<A HREF="DD.csv">DD</A>
+<DD><A HREF="294-304.csv">Questions 294 - 304</A>
+<P>
+<DT><B>Form 7</B>
+<DD>Column:&nbsp;
+<A HREF="Excludeddata.html">EE</A> &nbsp;&nbsp;
+<A HREF="FF.csv">FF</A> &nbsp;&nbsp;
+<A HREF="GG.csv">GG</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">HH</A> &nbsp;&nbsp;
+<A HREF="II.csv">II</A> &nbsp;&nbsp;
+<A HREF="JJ.csv">JJ</A> &nbsp;&nbsp;
+<A HREF="KK.csv">KK</A> &nbsp;&nbsp;
+<A HREF="LL.csv">LL</A> &nbsp;&nbsp;
+<A HREF="MM.csv">MM</A> &nbsp;&nbsp;
+<A HREF="NN.csv">NN</A>
+<P>
+<DT><B>Form 8</B>
+<DD>Column:&nbsp;
+<A HREF="OO.csv">OO</A> &nbsp;&nbsp;
+<A HREF="PP.csv">PP</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">QQ</A> &nbsp;&nbsp;
+<A HREF="RR.csv">RR</A> &nbsp;&nbsp;
+<A HREF="SS.csv">SS</A> &nbsp;&nbsp;
+<A HREF="TT.csv">TT</A> &nbsp;&nbsp;
+<A HREF="UU.csv">UU</A> &nbsp;&nbsp;
+<A HREF="VV.csv">VV</A> &nbsp;&nbsp;
+<A HREF="WW.csv">WW</A> &nbsp;&nbsp;
+<A HREF="XX.csv">XX</A>
+<P>
+<DT><B>Form 9</B>
+<DD>Column:&nbsp;
+<A HREF="YY.csv">YY</A> &nbsp;&nbsp;
+<A HREF="ZZ.csv">ZZ</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">AAA</A> &nbsp;&nbsp;
+<A HREF="BBB.csv">BBB</A> &nbsp;&nbsp;
+<A HREF="CCC.csv">CCC</A> &nbsp;&nbsp;
+<A HREF="DDD.csv">DDD</A>
+<P>
+<DT><A HREF="form10.csv"><B>Form 10</A></B>
+<P>
+<DT><B>Form 11</B>
+<DD>Column:&nbsp;
+<A HREF="EEE.csv">EEE</A> &nbsp;&nbsp;
+<A HREF="FFF.csv">FFF</A> &nbsp;&nbsp;
+<A HREF="GGG.csv">GGG</A> &nbsp;&nbsp;
+<A HREF="HHH.csv">HHH</A> &nbsp;&nbsp;
+<A HREF="III.csv">III</A> &nbsp;&nbsp;
+<A HREF="JJJ.csv">JJJ</A> &nbsp;&nbsp;
+<A HREF="KKK.csv">KKK</A> &nbsp;&nbsp;
+<A HREF="LLL.csv">LLL</A> &nbsp;&nbsp;
+<A HREF="MMM.csv">MMM</A> &nbsp;&nbsp;
+<A HREF="NNN.csv">NNN</A>
+<P>
+<DT><B>Form 12</B>
+<DD>Column:&nbsp;
+<A HREF="OOO.csv">OOO</A> &nbsp;&nbsp;
+<A HREF="PPP.csv">PPP</A> &nbsp;&nbsp;
+<A HREF="QQQ.csv">QQQ</A> &nbsp;&nbsp;
+<A HREF="RRR.csv">RRR</A> &nbsp;&nbsp;
+<A HREF="SSS.csv">SSS</A> &nbsp;&nbsp;
+<A HREF="TTT.csv">TTT</A> &nbsp;&nbsp;
+<A HREF="UUU.csv">UUU</A> &nbsp;&nbsp;
+<A HREF="VVV.csv">VVV</A>
+<P>
+<DT><B>Form 13</B>
+<DD>Column:&nbsp;
+<A HREF="WWW.csv">WWW</A> &nbsp;&nbsp;
+<A HREF="XXX.csv">XXX</A> &nbsp;&nbsp;
+<A HREF="Excludeddata.html">YYY</A> &nbsp;&nbsp;
+<A HREF="ZZZ.csv">ZZZ</A> &nbsp;&nbsp;
+<A HREF="ABC.csv">ABC</A>
+<P>
+</DL>
+</BLOCKQUOTE>
+<h5><a href="data.html#primarydata">Back to Top</a></h5>
+<p align="center"><img src="_themes/safari/safsepa.gif" width="300" height="10"></p>
+<H3><A HREF="../index.html">Go back to the main <I>Recovery</I> page</A></H3>
+<h5>Please send comments or questions about this site to <a href="mailto:recovery@u.washington.edu">recovery@u.washington.edu</a>.
+<br>
+Last updated: 9 August, 2002.</h5>
+<!--mstheme--></font></td></tr><!--msnavigation-->
+</table></body>
+</html>
+</body>
+</html>

@@ -1,0 +1,196 @@
+PLAN CODE,SPECIES CODE,PLAN NAME,SPECIES COMMON NAME,SPECIES SCIENTIFIC NAME,SCHOOL,REVISED?
+larg,abrmac,Large-fruited Sand Verbena,"Sand-verbena, large-fruited",Abronia macrocarpa,Cornell,No
+lana,abuere,Lanai Plant Cluster (9 spp.),Abutilon eremitopetalum (NCN),Abutilon eremitopetalum,Tennessee,No
+oahp,abusan,Oahu Plants (66 spp.),Abutilon sandwicense (NCN),Abutilon sandwicense,UCSB,No
+prra,accstr,2 Puerto Rican Raptors (2 spp.),"Hawk, Puerto Rican sharp-shinned",Accipiter striatus venator,ASU,No
+oaht,achlil,Oahu Tree Snails (20 spp.),"Snail, Oahu tree",Achatinella lila,Tennessee,No
+nigh,acrlus,Nightingale Reed Warbler,"Warbler, nightingale-reed",Acrocephalus luscinia,Washington,No
+sens,aesvir,Sensitive Joint Vetch,"Joint-vetch, sensitive",Aeschynomene virginica,Minnesota,No
+yell,agexan,Yellow-shouldered Blackbird,"Blackbird, yellow-shouldered",Agelaius xanthomus,Notre Dame,Yes
+dwwe,alahet,Dwarf Wedge Mussel,"Wedgemussel, dwarf",Alasmidonta heterodon,UCSB,No
+mapl,alemac,Maui Plant Cluster (21 spp.),Mahoe,Alectryon macrococcus (var. macrococcus) (var. auwahiensis),Tennessee,No
+kaua,alslyc,Kauai II Addendum (20 spp.),Kuawawaenohu,Alsinidendron lychnoides,Montana,No
+oahp,alsobo,Oahu Plants (66 spp.),Alsinidendron obovatum (NCN),Alsinidendron obovatum,UCSB,No
+kaua,alsvis,Kauai II Addendum (20 spp.),Alsinidendron viscosum (NCN),Alsinidendron viscosum,Montana,No
+prpa,amavit,Puerto Rican Parrot,"Parrot, Puerto Rican",Amazona vittata,Wisconsin,Yes
+ashm,ambama,Ash Meadows (12 spp.),"Naucorid, Ash Meadows",Ambrysus amargosus,Minnesota,No
+sclo,ambmac,Santa Cruz Long-toed Salamander,"Salamander, Santa Cruz long-toed",Ambystoma macrodactylum croceum,UCSB,Yes
+ozar,ambros,Ozark Cavefish,"Cavefish, Ozark",Amblyopsis rosae,Notre Dame,Yes
+sono,antame,Sonoran Pronghorn,"Pronghorn, Sonoran",Antilocapra americana sonoriensis,Nevada,Yes
+anti,apomor,Antioch Dunes (3 spp.),"Butterfly, Lange's metalmark",Apodemia mormo langei,Notre Dame,Yes
+rave,archoo,Raven's Manzanita,"Manzanita, Presidio (=Raven's)",Arctostaphlos hookeri ravenii,CSU,No
+dwbe,archum,Dwarf Bear-poppy,"Bear-poppy, dwarf",Arctomecon humilis,Notre Dame,No
+four,arcmor,Four Plants and One Snail (5 spp.),Morro manzanita,Arctostaphylos morroensis,Montana,No
+maun,argsan,Mauna Kea Silversword,"Silversword, Mauna Kea (=`ahinahina)",Argyroxiphium sandwicense ssp. sandwicense,Wisconsin,No
+anth,athant,Anthony's Riversnail,"Riversnail, Anthony's",Athearnia anthonyi,Cornell,No
+virg,betube,Virginia Round-leaf Birch,"Birch, Virginia round-leaf",Betula uber,ASU,Yes
+flsc,bongra,FL Scrub Plants (19 spp.),"Bonamia, Florida",Bonamia grandiflora,Washington,Yes
+aleu,bracan,Aleutian Canada Goose,"Goose, Aleutian Canada",Branta canadensis leucopareia,Idaho,Yes
+cavp,brasan,California Vernal Pools (7 spp.),San Diego fairy shrimp,Branchinecta sandiegoensis,Nevada,No
+kaup,briins,Kauai Plant Cluster (37 spp.),Olulu,Brighamia insignis,Minnesota,No
+palm,calriv,Palma de Manaca (=Manac Palm),"Manaca, palma de (=manac palm)",Calyptronoma rivalis,Minnesota,No
+east,canlup,Eastern Timber Wolf,"Wolf, gray",Canis lupus,Duke,Yes
+gray,canlup,Gray Wolf (Rocky Mountain Population),"Wolf, gray",Canis lupus,Iowa St.,No
+redw,canruf,Red Wolf,"Wolf, red",Canis rufus,Utah St.,Yes
+ashm,cennam,Ash Meadows (12 spp.),"Centaury, spring-loving",Centaurium namophilum (=C. n. var. namophilum),ASU,No
+cuiu,chacuj,Cui-ui,Cui-ui,Chasmistes cujus,Nevada,Yes
+kool,chadep,Koolau Mtns. Plant Cluster (11 spp.),akoko,Chamaesyce deppeana,CSU,No
+pine,chagar,Pine Rockland Plants (5 spp.),"Spurge, Garber's",Chamaesyce garberi (=Euphorbia g.),UCSB,No
+oahp,charoc,Oahu Plants (66 spp.),Akoko,Chamaesyce rockii,Tennessee,No
+flsc,chipyg,FL Scrub Plants (19 spp.),"Fringe-tree, pygmy",Chionanthus pygmaeus,Berkeley,Yes
+flog,chrflo,Florida Golden Aster,"Aster, Florida golden",Chrysopsis floridana (=Heterotheca floridana),Duke,No
+nort,cicdor,Northeastern Beach Tiger Beetle,"Beetle, northeastern beach tiger",Cicindela dorsalis dorsalis,Tennessee,No
+mask,colvir,Masked Bobwhite,"Bobwhite, masked (quail)",Colinus virginianus ridgwayi,Montana,Yes
+hawc,corhaw,Hawaiian Crow (Alala),"Crow, Hawaiian (=`alala)",Corvus hawaiiensis (=tropicus),Duke,No
+amcr,croacu,American Crocodile,"Crocodile, American",Crocodylus acutus,Montana,Yes
+newm,crowil,New Mexico Ridge-nosed Rattlesnake,"Rattlesnake, New Mexican ridge-nosed",Crotalus willardi obscurus,Montana,No
+sccy,cupabr,Santa Cruz Cyprus,"Cypress, Santa Cruz",Cupressus abramsiana,Montana,No
+molo,cyaman,Molokai Plant Cluster (16 spp.),"Cyanea, haha",Cyanea mannii,Cornell,No
+bipl,cyashi,Big Island Plant Cluster (22 spp.),Haha,Cyanea shipmannii,Idaho,No
+fish,cypfor,Fishes of the Rio Yaqui (4 spp.),"Shiner, beautiful",Cyprinella (=Notropis) formosa,Tennessee,No
+kaua,cyrcya,Kauai II Addendum (20 spp.),Mapele,Cyrtandra cyaneoides,Wisconsin,No
+bipl,cyrgif,Big Island Plant Cluster (22 spp.),Ha`iwale,Cyrtandra giffardii,Idaho,No
+lana,cyrmun,Lanai Plant Cluster (9 spp.),Ha`iwale,Cyrtandra munroi,Berkeley,No
+oahp,cyrvir,Oahu Plants (66 spp.),haiwale,Cyrtandra viridiflora,Tennessee,No
+kirt,denkir,Kirtland's Warbler,"Warbler, Kirtland's",Dendroica kirtlandii,Idaho,Yes
+flom,dicchr,Florida Mints (4 spp.),"Mint, Garrett's (=scrub)",Dicerandra christmanii (formerly =D. frutescens),Iowa St.,No
+tenn,echten,Tennesee Purple Coneflower,"Coneflower, Tennessee purple",Echinacea tennesseensis,Maine,Yes
+tarr,ellste,Tar River Spinymussel,"Spinymussel, Tar River",Elliptio (=Canthyria) steinstansana,Utah St.,Yes
+sout,enhlut,Southern Sea Otter,"Otter, southern sea",Enhydra lutris nereis,Davis,Yes
+cavp,eryari,California Vernal Pools (7 spp.),"Button-celery, San Diego",Eryngium aristulatum var. parishii,Nevada,No
+anti,erycap,Antioch Dunes (3 spp.),"Wallflower, Contra Costa",Erysimum capitatum var. angustatum,Notre Dame,Yes
+flsc,erycun,FL Scrub Plants (19 spp.),"Snakeroot, scrub-celery",Eryngium cuneifolium,Washington,Yes
+seve,erymen,Seven Plants and One Butterfly (8 spp.),"Wallflower, Menzies'",Erysimum menziesii,Montana,No
+thre,eryter,Three Plants and Two Insect (5 spp.),"Wallflower, Ben Lomond",Erysimum teretifolium,Wisconsin,No
+slac,ethbos,Slackwater Darter,"Darter, slackwater",Etheostoma boschungi,Washington,No
+edwa,ethfon,5 Edwards Aquifer Species (5 spp.),"Darter, fountain",Etheostoma fonticola,Davis,Yes
+wate,ethnuc,Watercress Darter,"Darter, watercress",Etheostoma nuchale,Wisconsin,Yes
+okal,ethoka,Okaloosa Darter,"Darter, Okaloosa",Etheostoma okaloosae,UCSB,No
+bayo,ethrub,Bayou Darter,"Darter, bayou",Etheostoma rubrum,Davis,Yes
+mary,ethsel,Maryland Darter,"Darter, Maryland",Etheostoma sellare,Washington,Yes
+else,eupbat,El Segundo Blue Butterfly,"Butterfly, El Segundo blue",Euphilotes (=Shijimiaeoides) battoides allyni,Idaho,No
+edwa,eurnan,5 Edwards Aquifer Species (5 spp.),"Salamander, San Marcos",Eurycea nana,Washington,Yes
+ampe,falper,American Peregrine Falcon (Pacific),"Falcon, American peregrine",Falco peregrinus anatum,Iowa St.,No
+pere,falper,Peregrine Falcon (Eastern pop.),"Falcon, American peregrine",Falco peregrinus anatum,Maine,Yes
+haww,fulame,Hawaiian Waterbirds (4 spp.),"Coot, Hawaiian (=`alae-ke`oke`o)",Fulica americana alai (=F. americana alai),Tennessee,Yes
+lana,gahlan,Lanai Plant Cluster (9 spp.),Gahnia lanaiensis (NCN),Gahnia lanaiensis,Maine,No
+haww,galchl,Hawaiian Waterbirds (4 spp.),"Moorhen, Hawaiian common",Gallinula chloropus sandvicensis,Utah St.,Yes
+bigb,gamgai,Big Bend Gambusia,"Gambusia, Big Bend",Gambusia gaigei,Berkeley,No
+edwa,gamgeo,5 Edwards Aquifer Species (5 spp.),"Gambusia, San Marcos",Gambusia georgei,Davis,Yes
+hawg,garbri,Hawaiian Gardenia,"Gardenia, Hawaiian (=na`u)",Gardenia brighamii,ASU,No
+unar,gasacu,Unarmored Threespine Stickleback,"Stickleback, unarmored threespine",Gasterosteus aculeatus williamsoni,Duke,Yes
+mapl,gerarb,Maui Plant Cluster (21 spp.),"Geranium, Hawaiian red-flowered",Geranium arboreum,Davis,No
+hump,gilcyp,Humpback Chub,"Chub, humpback",Gila cypha,Notre Dame,Yes
+bony,gilele,Bonytail Chub,"Chub, bonytail",Gila elegans,Nevada,Yes
+chih,gilnig,Chihuahua Chub,"Chub, Chihuahua",Gila nigrescens,Duke,No
+fish,gilpur,Fishes of the Rio Yaqui (4 spp.),"Chub, Yaqui",Gila purpurea,Berkeley,No
+whoo,gruame,Whooping Crane,"Crane, whooping",Grus americana,Washington,Yes
+miss,grucan,Mississippi Sandhill Crane,"Crane, Mississippi sandhill",Grus canadensis pulla,Minnesota,Yes
+caco,gymcal,California Condor,"Condor, California",Gymnogyps californianus,CSU,Yes
+gnom,gymlin,Gnome Rock Lichen,"Lichen, rock-gnome",Gymnoderma lineare,Davis,No
+tods,hedtod,Todsen's Pennyroyal,"Pennyroyal, Todsen's",Hedeoma todsenii,Nevada,Yes
+oahp,hesarb,Oahu Plants (66 spp.),Hesperomannia arborescens (NCN),Hesperomannia arborescens,Davis,No
+molo,hibarn,Molokai Plant Cluster (16 spp.),Koki`o ke`oke`o,Hibiscus arnottianus ssp. immaculatus,Cornell,No
+kaup,hibcla,Kauai Plant Cluster (37 spp.),"Hibiscus, Clay's",Hibiscus clayi,Davis,No
+kaua,hibwoo,Kauai II Addendum (20 spp.),Hau kuahiwi,Hibiscadelphus woodii,Wisconsin,No
+haww,himmex,Hawaiian Waterbirds (4 spp.),"Stilt, Hawaiian (=ae`o)",Himantopus mexicanus (=Himantopus) knudseni,Nevada,Yes
+flsc,hypcum,FL Scrub Plants (19 spp.),"Hypericum, highlands scrub",Hypericum cumulicola,Davis,Yes
+smal,isomed,Small Whorled Pogonia,"Pogonia, small whorled",Isotria medeoloides,Utah St.,Yes
+beac,jacrec,Beach Jacquemontia,"Jacquemontia, beach",Jacquemontia reclinata,Nevada,No
+oahp,labcyr,Oahu Plants (66 spp.),kamakahala,Labordia cyrtandrae,ASU,No
+wahi,lablyd,Wahiawa Plant Cluster (5 spp.),Kamakahala,Labordia lydgatei,Wisconsin,No
+pink,lamabr,Pink Mucket Pearly Mussel,"Mucket, pink (pearlymussel)",Lampsilis abrupta (=orbiculata),Texas A&M,No
+snak,lanxsp,Snake River Aquatic Snails (5 spp.),"Limpet, Banbury Springs",Lanx sp.,Duke,No
+caro,lasdec,Carolina Heelsplitter,"Heelsplitter, Carolina",Lasmigona decorata,Iowa St.,No
+dudl,lescon,Dudley Bluffs Bladderpod/Twinpod (2 spp.),"Bladderpod, Dudley Bluffs",Lesquerella congesta,Berkeley,No
+prai,leslep,Prairie Bush-clover,"Bush-clover, prairie",Lespedeza leptostachya,Iowa St.,No
+flsc,liaohl,FL Scrub Plants (19 spp.),"Blazing-star, scrub",Liatris ohlingerae,Notre Dame,Yes
+kaup,lipmic,Kauai Plant Cluster (37 spp.),Nehe,Lipochaeta micrantha var. micrantha,Davis,No
+oahp,loboah,Oahu Plants (66 spp.),Lobelia oahuensis (NCN),Lobelia oahuensis,Duke,No
+pali,loxbai,Palila,Palila (honeycreeper),Loxioides (=Psittirostra) bailleui,Davis,Yes
+flsc,lupari,FL Scrub Plants (19 spp.),"Lupine, scrub",Lupinus aridorum,Duke,Yes
+loti,lycarg,Lotis Blue Butterfly,"Butterfly, lotis blue",Lycaeides argyrognomon lotis,ASU,No
+role,lysasp,Rough-leaved Loosestrife,"Loosestrife, rough-leaved",Lysimachia asperulaefolia,Washington,No
+apal,macalb,Apalachicola Plants (4 spp.),"Birds-in-a-nest, white",Macbridea alba,Utah St.,No
+walk,manwal,Walker's Manioc,"Manioc, Walker's",Manihot walkerae,UCSB,No
+mohr,marmoh,Mohr's Barbara's Button,"Button, Mohr's Barbara",Marshallia mohrii,Utah St.,No
+kaup,melpal,Kauai Plant Cluster (37 spp.),Alani,Melicope pallida,Utah St.,No
+oahp,melsai,Oahu Plants (66 spp.),Alani,Melicope saint-johnii,Duke,No
+arma,miccal,Armagosa Vole,"Vole, Armagosa",Microtus californicus scirpensis,UCSB,No
+hual,micmex,Hualapai Mexican Vole,"Vole, Hualapai Mexican",Microtus mexicanus hualpaiensis,Cornell,No
+blac,musnig,Black-footed Ferret,"Ferret, black-footed",Mustela nigripes,Davis,Yes
+kauf,myapal,Kauai Forest Birds (6 spp.),"Thrush, small Kauai",Myadestes palmeri (=Phaeornia p.),Texas A&M,No
+wood,mycame,Wood Stork (U.S. pop.),"Stork, wood",Mycteria americana,Wisconsin,No
+indi,myosod,Indiana Bat,"Bat, Indiana",Myotis sodalis,ASU,Yes
+oahp,nothum,Oahu Plants (66 spp.),Kulu`i,Nototrichium humile,Texas A&M,No
+cape,notmek,Cape Fear Shiner,"Shiner, Cape Fear",Notropis mekistocholas,Maine,No
+neos,notpla,Neosho Madtom,"Madtom, Neosho",Noturus placidus,Cornell,No
+ring,oboret,Ring Pink (Mussel),"Pink, ring (mussel)",Obovaria retusa,Davis,No
+keyd,odvicl,Key Deer,"Deer, key",Odocoileus virginianus clavium,Wisconsin,Yes
+colu,odvile,Columbian White-tailed deer,"Deer, Columbian white-tailed",Odocoileus virginianus leucurus,Washington,Yes
+anti,oendel,Antioch Dunes (3 spp.),"Evening-primrose, Antioch Dunes",Oenothera deltoides ssp. howellii,CSU,Yes
+ariz,oncapa,Arizona Trout (=Apache),"Trout, Apache (=Arizona)",Onchorynchus apache,Texas A&M,Yes
+grcu,onccla,Greenback Cutthroat Trout,"Trout, greenback cutthroat",Oncorhynchus (=Salmo) clarki stomias,Maine,Yes
+gila,oncgil,Gila Trout,"Trout, Gila",Oncorhynchus (=Salmo) gilae,Minnesota,Yes
+nash,orcsho,Nashville Crayfish,"Crayfish, Nashville",Orconectes shoupi,Maine,Yes
+flsc,parcha,FL Scrub Plants (19 spp.),"Whitlow-wort, papery",Paronychia chartacea,Duke,Yes
+mamo,parfla,Maui-Molokai Forest Birds (7 spp.),"Creeper, Molokai (=kakawahie)",Paroreomyza flammea,Tennessee,No
+brad,pedbra,Brady Pincushion Cactus,"Cactus, Brady pincushion",Pediocactus bradyi,ASU,No
+furb,pedfur,Furbish Lousewort,"Lousewort, furbish",Pedicularis furbishiae,Davis,Yes
+sile,pedsil,Siler Pincushion Cactus,"Cactus, Siler pincushion",Pediocactus sileri,Davis,No
+prcr,pellem,Puerto Rican Crested Toad,"Toad, Puerto Rican crested",Peltophryne lemur,Davis,No
+anas,perpol,Anastasia Island/Southeast Beach Mice (2 spp.),"Mouse, Anastasia Island beach",Peromyscus polionotus phasma,Minnesota,No
+snai,pertan,Snail Darter,"Darter, snail",Percina tanasi,Idaho,Yes
+lana,phygla,Lanai Plant Cluster (9 spp.),Phyllostegia glabra var. lanaiensis (NCN),Phyllostegia glabra var. lanaiensis,Cornell,No
+biad,phyrac,Big Island Addendum (13 spp.),Kiponapona,Phyllostegia racemosa,Montana,No
+redc,picbor,Red-cockaded Woodpecker,"Woodpecker, red-cockaded",Picoides borealis,Cornell,Yes
+ropi,pleple,Rough Pigtoe Pearly Mussel,"Pigtoe, rough",Pleurobema plenum,Notre Dame,No
+shen,pleshe,Shenandoah Salamander,"Salamander, Shenandoah",Plethodon shenandoah,Berkeley,No
+fish,poeocc,Fishes of the Rio Yaqui (4 spp.),"Topminnow, Yaqui",Poeciliopsis occidentalis sonorensis,ASU,Yes
+cavp,pognud,California Vernal Pools (7 spp.),Otay mesa mint,Pogogyne nudiuscula,Texas A&M,No
+flsc,polbas,FL Scrub Plants (19 spp.),Wireweed,Polygonella basiramia,Texas A&M,Yes
+fatp,potcap,Fat Pocketbook Pearly Mussel,"Pocketbook, fat",Potamilus (=Proptera) capax,Tennessee,Yes
+litt,potcly,Little Aguja Pondweed,"Pondweed, Little Aguja Creek",Potamogeton clystocarpus,UCSB,No
+flsc,prugen,FL Scrub Plants (19 spp.),"Plum, scrub",Prunus geniculata,Texas A&M,Yes
+guam,ptemar,Guam Fruit Bats (2 spp.),"Bat, Mariana fruit",Pteropus mariannus mariannus,Idaho,No
+harp,ptinod,Harperella,Harperella,Ptilimnium nodosum (=P. fluviatile),Utah St.,No
+colo,ptyluc,Colorado Squawfish,"Squawfish, Colorado",Ptychocheilus lucius,Idaho,Yes
+flop,pumcon,Florida Panther,"Panther, Florida",Puma concolor coryi,Idaho,Yes
+alam,pyrneo,Alamosa and Socorro Springsnails (2 spp.),"Springsnail, Socorro",Pyrgulopsis neomexicana,Davis,No
+tomb,quasta,Tombigbee Mussels (5 spp.),Stirrupshell,Quadrula stapes,Minnesota,No
+salt,raloob,Saltmarsh Harvest Mouse/CA. Clapper Rail (2 spp.),"Rail, California clapper",Rallus longirostris obsoletus,Berkeley,No
+yuma,raloyu,Yuma Clapper Rail,"Rail, Yuma clapper",Rallus longirostris yumanensis,Davis,No
+selk,rantar,Selkirk Mountains Caribou,"Caribou, woodland",Rangifer tarandus caribou,ASU,Yes
+kaup,remkau,Kauai Plant Cluster (37 spp.),Remya kauaiensis (NCN),Remya kauaiensis,Notre Dame,No
+kars,rhaper,Karst Invertebrates (7 spp.),"Beetle, Tooth Cave ground",Rhadine persephone,Berkeley,No
+kend,rhiosc,Kendall Warm Spring Dace,"Dace, Kendall Warm Springs",Rhinichthys osculus thermalis,Minnesota,No
+chap,rhocha,Chapman's Rhododendron,"Rhododendron, Chapman's",Rhododendron chapmanii,Davis,No
+ever,rossoc,Everglade Snail Kite,"Kite, Everglade snail",Rostrhamus sociabilis plumbeus,Notre Dame,Yes
+grpi,sarore,Green Pitcher-plant,"Pitcher-plant, green",Sarracenia oreophila,Davis,Yes
+pall,scaalb,Pallid Sturgeon,"Sturgeon, pallid",Scaphirhynchus albus,Cornell,No
+mapl,schhal,Maui Plant Cluster (21 spp.),Schiedea haleakalensis (NCN),Schiedea haleakalensis,CSU,No
+oahp,schkaa,Oahu Plants (66 spp.),Schiedea kaalae (NCN),Schiedea kaalae,Nevada,No
+oahp,schkea,Oahu Plants (66 spp.),Schiedea kealiae (NCN),Schiedea kealiae,Maine,No
+kaup,schspe,Kauai Plant Cluster (37 spp.),Schiedea spergulina var. spergulina (NCN),Schiedea spergulina var. spergulina,CSU,No
+delm,scinig,Delmarva Peninsula Fox Squirrel,"Squirrel, Delmarva Peninsula fox",Sciurus niger cinereus,Maine,Yes
+enru,soldry,Enrubia (=Solanum drymophilum),Erubia,Solanum drymophilum,Wisconsin,No
+houg,solhou,Houghton's Goldenrod,"Goldenrod, Houghton's",Solidago houghtonii,Berkeley,No
+alab,spepou,Alabama Cavefish,"Cavefish, Alabama",Speoplatyrhinus poulsoni,CSU,Yes
+cale,steant,California Least Tern,"Tern, California least",Sterna antillarum browni,Utah St.,No
+kaup,stecam,Kauai Plant Cluster (37 spp.),Stenogyne campanulata (NCN),Stenogyne campanulata,CSU,No
+mexi,strocc,Mexican Spotted Owl,"Owl, Mexican spotted",Strix occidentalis lucida,UCSB,No
+lowe,sylpal,Lower Keys Marsh Rabbit,"Rabbit, Lower Keys marsh",Sylvilagus palustris hefneri,CSU,No
+lana,tetrem,Lanai Plant Cluster (9 spp.),Tetramolopium remyi (NCN),Tetramolopium remyi,Cornell,No
+kars,texred,Karst Invertebrates (7 spp.),"Harvestman, Bee Creek Cave",Texella reddelli,CSU,No
+cool,thacoo,Cooley's Meadowrue,"Meadowrue, Cooley's",Thalictrum cooleyi,Minnesota,No
+peda,theste,Pedate Checkermallow/Slender-petaled Mustard,"Mustard, slender-petaled",Thelypodium stenopetalum,Nevada,No
+socc,thethe,Soccoro Isopod,"Isopod, Socorro",Thermosphaeroma (=Exosphaeroma) thermophilus,Washington,No
+prfe,theyau,Puerto Rican Ferns (7spp),Thelypteris yaucoensis (NCN),Thelypteris yaucoensis,Idaho,No
+west,triman,West Indian Manatee (FL pop.),"Manatee, West Indian (=Florida)",Trichechus manatus,Montana,Yes
+bari,tritri,Bariaco,Bariaco (=guayabacon),Trichilia triacantha,Texas A&M,No
+attw,tymcup,Attwater's Greater Prairie Chicken,"Prairie-chicken, Attwater's greater",Tympanuchus cupido attwateri,Texas A&M,Yes
+griz,ursarc,Grizzly Bear,"Bear, grizzly",Ursus arctos (=U.a. horribilis),Berkeley,Yes
+flsc,warcar,FL Scrub Plants (19 spp.),"Mustard, Carter's",Warea carteri,Maine,Yes
+cach,xanriv,California Channel Islands (7 spp.),"Lizard, Island night",Xantusia (=Klauberina) riversiana,Utah St.,No
+flsc,zizcel,FL Scrub Plants (19 spp.),"Ziziphus, Florida",Ziziphus celata,Maine,Yes
+edwa,ziztex,5 Edwards Aquifer Species (5 spp.),"Wild-rice, Texas",Zizania texana,Texas A&M,Yes
